@@ -73,6 +73,7 @@ button:hover {
   text-align: center;
   color: rgb(64, 214, 64);
   padding: 2%;
+  text-decoration: none;
 }
 
 .insurance:hover {
